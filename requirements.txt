@@ -10,4 +10,5 @@ transformers >= 4.33.1  # Required for Code Llama.
 xformers >= 0.0.22
 fastapi
 uvicorn[standard]
-pydantic < 2  # Required for OpenAI server.
+#pydantic
+# < 2  # Required for OpenAI server.
